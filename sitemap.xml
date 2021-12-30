@@ -302,13 +302,6 @@
   </url>
   
   <url>
-    <loc>https://sudoyiii.github.io/tags/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2021-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sudoyiii.github.io/tags/Java/</loc>
     <lastmod>2021-12-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -317,6 +310,13 @@
   
   <url>
     <loc>https://sudoyiii.github.io/tags/Tomcat/</loc>
+    <lastmod>2021-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sudoyiii.github.io/tags/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2021-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -339,14 +339,14 @@
   </url>
   
   <url>
-    <loc>https://sudoyiii.github.io/categories/%E4%B8%93%E9%A2%98/</loc>
+    <loc>https://sudoyiii.github.io/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2021-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sudoyiii.github.io/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://sudoyiii.github.io/categories/%E4%B8%93%E9%A2%98/</loc>
     <lastmod>2021-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
